@@ -45,7 +45,6 @@ VALUES
     ('California', 5)
 ;
 
-
 /* TODO: Write a query here to select all songs */
 .headers on
 .mode column
